@@ -5,7 +5,7 @@ the first day
 2. 使用document.write()方法将内容写到HTML文档中
 3. 使用innerHTML写入HTML元素
 4. 使用console.log()写入到浏览器的控制台
-## 程序中调试时测试查找及减少bug的错误
+程序中调试时测试查找及减少bug的错误
 ## var创建一个新的变量
 ## 字面量是值
 ## Javascript对大小写是敏感的
@@ -23,8 +23,8 @@ the first day
 ## Javascript对象是变量的容器，是属性和方法的容器
 ## 键值对容器 name:value
 ## 访问
-- .property
-- ["property"]
+- `.property`
+- `["property"]`
 ## 访问对象
 - 定义
 `methodName:function(){code line}`
